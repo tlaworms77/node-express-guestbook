@@ -1,0 +1,13 @@
+{
+  "name": "node-express-guestbook",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "moment": "^2.24.0",
+    "mongoose": "latest",
+    "mongoose-auto-increment": "latest",
+    "serve-favicon": "^2.5.0"
+  }
+}
